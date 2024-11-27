@@ -3,3 +3,5 @@ hello
 my name is
 sung yoon jung
 im fine
+and you?
+i'm okay
