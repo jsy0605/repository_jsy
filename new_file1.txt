@@ -1,5 +1,4 @@
 Hello my name is Jung Sung Yoon
-Nice to meet you
 
 팀프로젝트 너무 많아요
 임베디드
